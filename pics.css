@@ -1,0 +1,27 @@
+body {background-color: rgb(129, 47, 47); 
+    font-family: Quicksand, sans-serif;
+    color: antiquewhite;
+    border: antiquewhite solid 3px;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 7px;
+    border-width: 2px;
+    line-height: normal;
+    background-repeat: no-repeat;
+}
+h1 {color: antiquewhite; font-size: 250%; text-shadow: 0 0 15px blue;}
+h2 {font-weight: 1000; text-decoration: underline;}
+a {color: #89CFF0;}
+blockquote {
+    background-image: url("images/spider-web.jpeg");
+}
+div {
+    box-shadow: 10px 10px;
+    resize: both;
+    overflow: auto;
+}
+@font-face {
+    font-family: Quicksand;
+    src: url("font/Quicksand-Bold.otf");
+    src: url("font/Quicksand-Light.otf")
+}
