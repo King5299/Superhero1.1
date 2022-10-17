@@ -1,5 +1,6 @@
 body {
     background-color: green;
+    /* This is where I used the downloaded font family*/
     font-family: Quicksand, sans-serif;
     border: black solid 2px;
     padding: 15px;

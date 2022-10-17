@@ -25,3 +25,6 @@ div {
     src: url("font/Quicksand-Bold.otf");
     src: url("font/Quicksand-Light.otf")
 }
+.cool {
+    font-family: 'Courier New', Courier, monospace;
+}
